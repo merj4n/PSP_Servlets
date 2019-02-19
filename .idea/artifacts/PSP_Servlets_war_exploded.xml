@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PSP_Servlets:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSP_Servlets_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PSP_Servlets/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PSP_Servlets" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
